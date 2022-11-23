@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "766654672299",
+    "project_id": "colfauflor",
+    "storage_bucket": "colfauflor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766654672299:android:106f6d6fe0325bc1f9f6ee",
+        "android_client_info": {
+          "package_name": "com.example.andresapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766654672299-us0g150gr4tfl5ica5rsp3orj7fel4mo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.andresapp",
+            "certificate_hash": "951e28529f6bde571a1453c2abca5a2a35f92d88"
+          }
+        },
+        {
+          "client_id": "766654672299-hi263j1c2453a873aoai7dgeta0ll05u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgN1azYPUaKnfwsktjoWEWWgdBq-ayAt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766654672299-hi263j1c2453a873aoai7dgeta0ll05u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
